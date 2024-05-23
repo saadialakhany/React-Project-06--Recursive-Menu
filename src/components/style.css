@@ -1,0 +1,24 @@
+.item--container {
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+}
+.item--container span {
+  position: absolute;
+  top: 5%;
+  left: 72%;
+}
+.item--container li {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.menu--container {
+  width: 30%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: cadetblue;
+}
